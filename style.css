@@ -1,0 +1,49 @@
+
+body {
+	background-color: #777;
+
+}
+
+header {
+	background-color: #ebebeb;
+	padding: 35px;
+	margin-bottom: 20px;
+	float: none;
+	width: 960px;
+}
+
+nav {
+	background-color: #ebebeb;
+	padding: 35px;
+	float: none;
+	clear: left;
+	width: 960px;
+}
+
+section {
+	background-color: #ebebeb;
+	padding: 85px;
+	margin-top: 25px;
+	margin-bottom: 20px;
+	display: inline-block;
+	clear: left;
+	width: 495px;
+}
+
+
+article {
+	background-color: #ebebeb;
+	display: inline-block;
+	width: 350px;
+	float: width;
+	clear: both;
+}
+
+footer {
+	background-color: #ebebeb;
+	padding: 35px;
+	width: 960px;
+	margin: 0 auto;
+	float: left;
+	clear: right;
+}
